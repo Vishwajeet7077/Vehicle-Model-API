@@ -141,6 +141,14 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    }
-    
+    {
+        "id":15,
+        "companyName": "JAGUAR",
+        "category": "Car",
+        "modelName":"XF",
+        "mileage": "19kmpl",
+        "approx.Cost": "70.6 lahk Rs.",
+        "website":"https://www.carwale.com/jaguar-cars/xf/mileage/"
+    },
 
 ]
